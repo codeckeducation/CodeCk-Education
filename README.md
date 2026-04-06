@@ -1,2 +1,6 @@
 # CodeCk-Education
-I want to help people by making the studying easier for everyone and free .z
+Codeck Education – موقع تعليمي لكل الصفوف والمواد.
+ميزات:
+- تسجيل دخول للطلاب
+- لوحة تحكم Dashboard
+- دروس فيديو وPDF
